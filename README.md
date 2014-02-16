@@ -44,3 +44,6 @@ You should see some output like this:
     Ruby\032FTPS\032DNSSD\032Example._ftps._tcp.local.
     Listing files available on Ruby FTPS DNSSD Example on kid.local.:8721
     -rw-r--r-- 1 colin    staff           0 Feb 16 14:03 this-is-a-file
+
+The server will stay running. The client will, too, so you'll have to kill it to
+run it again.
